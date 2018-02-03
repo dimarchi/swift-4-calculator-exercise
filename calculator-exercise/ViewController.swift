@@ -13,6 +13,8 @@
 //  Inspired by https://github.com/fnk0/iOS-Calculator-Tutorial
 //
 // Updated with division bug fix 2018-02-03
+// changed the way the string NSExpression takes
+// is generated
 
 import UIKit
 import Foundation
